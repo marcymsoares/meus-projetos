@@ -1,0 +1,3 @@
+Embora as imagens possam ser cortadas e dimensionadas manualmente no tamanho de um story do Instagram, para que seu conteúdo seja exibido em tela cheia.
+O formato ideal é:
+1080px x 1920px, 9:16.

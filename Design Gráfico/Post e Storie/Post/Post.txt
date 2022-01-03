@@ -1,0 +1,6 @@
+Os posts para Instagram pode ter o formato quadrado, paisagem ou vertical. 
+No feed, todas serão cortadas e exibida no formato quadrado. 
+O tamanho ideal para imagens quadradas é:
+1080px x 1080px, 1:1. 
+1080px x 1350px, 4:5.
+1200px x 566px, 1,91:1.
